@@ -26,6 +26,10 @@ The network simulates a small enterprise with four departments (HR/Admin, IT/NOC
 ***
 🏗️ Network Architecture
 
+<p align="center">
+  <img src="/images/ccsproj.png" width="1000" />
+</p>
+
 🔀 VLANs Implemented
 
 - 🏢 VLAN 40 - HR/Admin: Human Resources and Administrative workstations
