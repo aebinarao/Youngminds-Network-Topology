@@ -157,11 +157,10 @@ Optimization
 </table>
 
 ***
-🚀 Project Evolution
-This project started as a classroom assignment and evolved into a comprehensive demonstration of CCNA concepts. I systematically added features including:
 
-- Phase 1: Basic VLAN segmentation and routing
-- Phase 2: Redundancy (HSRP, Rapid STP, EtherChannel)
-- Phase 3: Security hardening (ACLs, SSH, port security)
-- Phase 4: Network services (DHCP, DNS, FTP)
-- Phase 5: WAN connectivity (BGP, NAT)
+Note:
+
+*This networking project, created during my college course Network Engineering 1 (Introduction to Networks) through Cisco NetAcad, originally focused on the fundamentals of routing and switching. After graduation, 
+I further enhanced the project through self-study and by completing a full CCNA course by Neil Anderson on Udemy and watching lecture videos of Jeremy's ITLab. 
+I incorporated additional technologies such as HSRP, OSPF, NAT, SVI, and other advanced networking concepts not covered in the network engineering 1 course. This project reflects both my academic foundation and my initiative to expand my knowledge in the field of computer networking. 
+I am eager to continue learning and open to feedback to further improve my skills.
